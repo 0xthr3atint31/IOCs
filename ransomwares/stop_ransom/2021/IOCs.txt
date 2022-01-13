@@ -1,0 +1,66 @@
+IOCs
+
+Stop Ransom Loader:-
+
+MD5: 705724a2e6065c0f22a3a12e21b362e0
+SHA1 : 23588517db151a09c517ee880b0b5572c46b53f8 
+SHA256 : 062c573497b73b4feaa77a78c2c76f6b095e51de635ac936e034f72afa081ecf 
+
+Stop Ransom Payload:-
+
+MD5 :  d3b6bbd555e1ed314a4a80fa7b70a8a0
+SHA-1 : 08ee2950636caf6dfb258efb07bde18eb36fd929
+SHA-256 : 13bf67156c399d479c0744713ea16669b5700788491dafc9138eec51a8026ca0
+
+Dropped executable file:-
+
+ SHA-256 : 13bf67156c399d479c0744713ea16669b5700788491dafc9138eec51a8026ca0
+ SHA-256 : 4bc52cd8296fcffc22b5ca8ebf2b161260d71c8d34658f45c9c93cf6d65749e9
+ SHA-256 : 6f032f671284b3812373e90b0ab5b16ea737bd7dc87d22b8f2aabe558334e403
+ SHA-256 : a770ecba3b08bbabd0a567fc978e50615f8b346709f8eb3cfacf3faab24090ba
+ SHA-256 :  3fe6b1c54b8cf28f571e0c5d6636b4069a8ab00b4f11dd842cfec00691d0c9cd
+ SHA-256 : 334e69ac9367f708ce601a6f490ff227d6c20636da5222f148b25831d22e13d4
+
+DNS requests:-
+
+ domain : rlrz[.]org
+ domain : api[.]2ip[.]ua
+ domain : r3[.]o[.]lencr[.]org
+ domain : mas[.]to
+ domain : ocsp[.]comodoca[.]com
+ domain : znpst[.]top
+
+Connections:-
+
+ ip : 23[.]37[.]41[.]57
+ ip : 65.[]108[.]80[.]190
+ ip : 23[.]32[.]238[.]178
+ ip : 88[.]99[.]75[.]82
+ ip : 211[.]119[.]84[.]112
+ ip : 210[.]92[.]250[.]133
+ ip : 23[.]32[.]238[.]201
+ ip : 151[.]139[.]128[.]14
+ ip : 77[.]123[.]139[.]190
+
+
+HTTP requests:-
+
+url: http[://]ocsp[.]comodoca[.]com[/]MFEwTzBNMEswSTAJBgUrDgMCGgUABBRTtU9uFqgVGHhJwXZyWCNXmVR5ngQUoBEKIz6W8Qfs4q8p74Klf9AwpLQCEDlyRDr5IrdR19NsEN0xNZU%3D
+ 
+url:  http[://]znpst[.]top[/]dl[/]build2[.]exe
+ 
+url:  http[://]rlrz[.]org[/]lancer[/]get[.]php[?]pid=6E3AAB7CB29BC9495DFDE01272C66F39&first=true
+ 
+url:  http[://]rlrz[.]org[/]files[/]1[/]build3[.]exe
+ 
+url: http[://]r3[.]o[.]lencr[.]org[/]MFMwUTBPME0wSzAJBgUrDgMCGgUABBRI2smg%2ByvTLU%2Fw3mjS9We3NfmzxAQUFC6zF7dYVsuuUAlA5h%2BvnYsUwsYCEgR7do%2BL7PzWWuh3sGFTAK0q9w%3D%3D
+ 
+url: http[://]65[.]108[.]80[.]190[/]mozglue[.]dll
+
+ url http[://]65[.]108[.]80[.]190[/]freebl3.dll
+
+ url http[://]65[.]108[.]80[.]190[/]msvcp140[.]dll
+ 
+url http[://]65[.]108[.]80[.]190[/]517
+ 
+url http[://]65[.]108[.]80[.]190[/]nss3[.]dll
